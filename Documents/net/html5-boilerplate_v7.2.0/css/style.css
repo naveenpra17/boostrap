@@ -124,3 +124,19 @@ height: 800px;
 margin:none;
 padding:0px;
 }
+.navi{
+    float: top;
+    position: absolute;
+    padding-left:740px;
+    
+    bottom:90%;
+}
+.navi a{
+    text-decoration: none;
+    color:#e50914;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ a:hover{
+    color: black;
+}
